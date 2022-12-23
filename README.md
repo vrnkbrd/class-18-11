@@ -1,5 +1,5 @@
 # class-18-11
-###Task 6kyu
+### Task 6kyu
 #### My solution 
 ```Java
 public class FrogJumping {
